@@ -1,0 +1,3 @@
+User-agent: *
+Sitemap: https://iim-opti-webiste.vercel.app/sitemap.xml
+Disallow: /*
