@@ -1264,8 +1264,8 @@ blockquote {
   margin-right: 0.8rem;
 }
 .cid-rGu1lE6miU {
-  padding-top: 180px;
-  padding-bottom: 180px;
+  padding-top: 180px !important;
+  padding-bottom: 180px !important;
   background-image: url("../../../assets/images/mbr-1920x1280.jpg");
 }
 @media (max-width: 767px) {
